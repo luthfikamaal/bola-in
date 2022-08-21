@@ -29,4 +29,4 @@ npm run build
 ```
 
 ### Data Source
-[*] [The Sports DB](https://www.thesportsdb.com/api.php)
+[The Sports DB](https://www.thesportsdb.com/api.php)
