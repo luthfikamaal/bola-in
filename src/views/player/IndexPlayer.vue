@@ -11,7 +11,7 @@
   </div>
   <div id="result">
     <div v-if="players.length != 0" v-for="(player, index) in players" class="flex border border-solid border-slate-400 rounded-md mt-3 hover:shadow-md transition-all">
-      <img v-bind:src="player.strThumb" class="w-1/3" v-bind:alt="player.strPlayer" />
+      <img v-bind:src="player.strThumb" class="w-1/2" v-bind:alt="player.strPlayer" />
       <div class="p-4 w-full">
         <div class="mb-3">
           <h1 class="font-poppins text-slate-800 text-xl font-semibold">{{ player.strPlayer }}</h1>
