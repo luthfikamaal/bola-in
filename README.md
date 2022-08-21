@@ -1,4 +1,4 @@
-# sport-in
+# Bola-in
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Data Source
+[*] [The Sports DB](https://www.thesportsdb.com/api.php)
