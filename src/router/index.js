@@ -4,7 +4,7 @@ import IndexPlayer from '../views/player/IndexPlayer.vue';
 import DetailPlayer from '../views/player/DetailPlayer.vue';
 import IndexMatch from '../views/match/IndexMatch.vue';
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
