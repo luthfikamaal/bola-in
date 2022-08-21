@@ -1,0 +1,23 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css');
+
+@font-face {
+  font-family: 'Poppins';
+  src: url('../font/Poppins/Poppins-Regular.ttf');
+}
+@font-face {
+  font-family: 'Quicksand';
+  src: url('../font/Quicksand/Quicksand-Regular.ttf');
+}
+@font-face {
+  font-family: 'Source Sans Pro';
+  src: url('../font/Source_Sans_Pro/SourceSansPro-Regular.ttf');
+}
+.font-poppins {
+  font-family: 'Poppins', sans-serif;
+}
+.font-quicksand {
+  font-family: 'Quicksand';
+}
+.font-ssp {
+  font-family: 'Source Sans Pro', sans-serif;
+}

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer components {
+  .form-control {
+    @apply px-2 py-1 rounded-md border-2 border-solid border-slate-300 outline-none focus:border-blue-500;
+  }
+  .btn {
+    @apply px-3 py-2 rounded-md outline-none;
+  }
+  .btn-primary {
+    @apply bg-blue-500 text-white hover:bg-blue-600;
+  }
+}
